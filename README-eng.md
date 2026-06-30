@@ -16,7 +16,7 @@
 ---
 
 ## 📹 Video explaining the project
-[YouTube Video](URL_DO_VIDEO)
+[YouTube Video](https://youtu.be/fPj6yLoL0tQ)
 
 ---
 
